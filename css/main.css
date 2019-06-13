@@ -11,7 +11,7 @@ body, html {
     color: #666;
 }
 
-.bg-light {
+/* .bg-light {
     background-color: #F4F4F4;
     color: #666;
 }
@@ -24,7 +24,7 @@ body, html {
 .bg-med {
     background-color: #666;
     color: #f4f4f4;
-}
+} */
 
 .container {
     display: flex;
@@ -38,9 +38,7 @@ body, html {
     flex: 1;
 }
 
-.item h2 {
-    font-size: 3rem;
-}
+
 
 .item p {
     line-height: 1.8rem;
