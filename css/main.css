@@ -11,6 +11,42 @@ body, html {
     color: #666;
 }
 
+.bg-light {
+    background-color: #F4F4F4;
+    color: #666;
+}
+
+.bg-dark {
+    background-color: #111;;
+    color: #f4f4f4;
+}
+
+.bg-med {
+    background-color: #666;
+    color: #f4f4f4;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    align-items: center;
+}
+
+.item {
+    padding: 2rem;
+    flex: 1;
+}
+
+.item h2 {
+    font-size: 3rem;
+    letter-spacing: .3rem;
+}
+
+.item p {
+    line-height: 1.8rem;
+}
+
 .pmg1, .pmg2, .pmg3 {
     position: relative;
     opacity: 0.70;
